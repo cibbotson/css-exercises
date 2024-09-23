@@ -1,0 +1,23 @@
+.urgent{
+    background-color: rgba(255, 122, 122, 0.8);
+    font-size: small;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.urgent.bold{
+    font-weight: 600;
+    font-size: large;
+}
+
+#two {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: larger;
+}
+#four{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: medium;
+    background-color: rgb(124, 255, 112);
+}
